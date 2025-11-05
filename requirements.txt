@@ -4,7 +4,7 @@ pandas>=2.2.2
 pyodbc>=5.1.0
 
 # IA y otros (solo si usas OpenAI para consultas)
-openai>=1.42.0
+openai==0.28
 tiktoken>=0.7.0
 
 # Variables de entorno
