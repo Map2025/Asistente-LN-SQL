@@ -1,0 +1,11 @@
+# Librerías base
+streamlit>=1.38.0
+pandas>=2.2.2
+pyodbc>=5.1.0
+
+# IA y otros (solo si usas OpenAI para consultas)
+openai>=1.42.0
+tiktoken>=0.7.0
+
+# Variables de entorno
+python-decouple>=3.8

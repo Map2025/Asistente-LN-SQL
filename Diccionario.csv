@@ -1,0 +1,213 @@
+﻿Tabla;Columna;Descripcion;Nombre
+GVA07;ID_GVA07;Identificador tabla de imputaciones;Imputaciones
+GVA07;FECHA_VTO;Fecha de Vencimiento;Imputaciones
+GVA07;F_COMP_CAN;Fecha Comprobante Cancelado;Imputaciones
+GVA07;IMPORTE_VT;Importe vencimiento;Imputaciones
+GVA07;IMPORT_CAN;importe cancelado;Imputaciones
+GVA07;N_COMP;Numero de comprobante;Imputaciones
+GVA07;N_COMP_CAN;Numero de comprobante cancelado;Imputaciones
+GVA07;T_COMP;Tipo comprobante;Imputaciones
+GVA07;T_COMP_CAN;Tipo comprobante cancelado;Imputaciones
+GVA12;ID_GVA12;Codigo identificacion tabla comprobantes;Comprobantes Cuentas Corrientes
+GVA12;CAT_IVA;Categoria IVA;Comprobantes Cuentas Corrientes
+GVA12;COD_CLIENT;Codigo Cliente;Comprobantes Cuentas Corrientes
+GVA12;COD_TRANSP;Codigo Transporte;Comprobantes Cuentas Corrientes
+GVA12;COD_VENDED;Codigo Vendedor;Comprobantes Cuentas Corrientes
+GVA12;COND_VTA;Condicion de Venta;Comprobantes Cuentas Corrientes
+GVA12;ESTADO;Estado;Comprobantes Cuentas Corrientes
+GVA12;FECHA_EMIS;Fecha Emision;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE;Importe Total;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE_BO;Importe Descuento;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE_EX;Importe Exento;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE_FL;Importe Flete;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE_GR;Importe Neto Gravado;Comprobantes Cuentas Corrientes
+GVA12;IMPORTE_IV;Importe IVA;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA;Leyenda;Comprobantes Cuentas Corrientes
+GVA12;MON_CTE;Moneda Corriente;Comprobantes Cuentas Corrientes
+GVA12;NRO_DE_LIS;Lista de Precio;Comprobantes Cuentas Corrientes
+GVA12;N_COMP;Numero de Comprobante;Comprobantes Cuentas Corrientes
+GVA12;PORC_BONIF;Porcentaje Bonificacion;Comprobantes Cuentas Corrientes
+GVA12;TALONARIO;Talonario;Comprobantes Cuentas Corrientes
+GVA12;T_COMP;Tipo Comprobante;Comprobantes Cuentas Corrientes
+GVA12;CAICAE;Codigo autorizacion ARCA;Comprobantes Cuentas Corrientes
+GVA12;USUARIO_INGRESO;Usuario de Ingreso;Comprobantes Cuentas Corrientes
+GVA12;TERMINAL_INGRESO;Terminal de ingreso;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA_1;LEYENDA 1;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA_2;LEYENDA 2;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA_3;LEYENDA 3;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA_4;LEYENDA 4;Comprobantes Cuentas Corrientes
+GVA12;LEYENDA_5;LEYENDA 5;Comprobantes Cuentas Corrientes
+GVA53;T_COMP;Tipo de Comprobante;Renglones Comprobantes Cuentas Corrientes
+GVA53;N_COMP;Numero de Comprobante;Renglones Comprobantes Cuentas Corrientes
+GVA53;COD_ARTICU;Codigo de Articulo;Renglones Comprobantes Cuentas Corrientes
+GVA53;CANTIDAD;Cantidad;Renglones Comprobantes Cuentas Corrientes
+GVA53;IMP_NETO_P;Importe Neto Gravado;Renglones Comprobantes Cuentas Corrientes
+GVA53;FECHA_MOV;Fecha Movimiento;Renglones Comprobantes Cuentas Corrientes
+GVA14;C_POSTAL;Codigo Postal;Clientes
+GVA14;CALLE;Calle;Clientes
+GVA14;COD_CLIENT;Codigo Cliente;Clientes
+GVA14;COD_PROVIN;Codigo Provincia;Clientes
+GVA14;COD_TRANSP;Codigo Transporte;Clientes
+GVA14;COD_VENDED;Codigo Vendedor;Clientes
+GVA14;COD_ZONA;Codigo Zona;Clientes
+GVA14;COND_VTA;Condicion de Venta;Clientes
+GVA14;CUIT;CUIT;Clientes
+GVA14;CUPO_CREDI;Cupo Credito;Clientes
+GVA14;DIR_COM;Direccion Comercial;Clientes
+GVA14;DOMICILIO;Domicilio;Clientes
+GVA14;E_MAIL;Correo electronico;Clientes
+GVA14;LOCALIDAD;Localidad;Clientes
+GVA14;NOM_COM;Nombre Comercial;Clientes
+GVA14;NRO_LISTA;Número de Lista;Clientes
+GVA14;RAZON_SOCI;Razon Social;Clientes
+GVA14;SALDO_ANT;Saldo Anterior;Clientes
+GVA14;SALDO_CC;Saldo Cuenta Corriente;Clientes
+GVA14;TELEFONO_1;Telefono;Clientes
+GVA14;TIPO_DOC;Tipo Documento;Clientes
+GVA14;MON_CTE;Moneda Corriente;Clientes
+GVA14;CLA_IMP_CL;Clasificacion Percepciones AGIP;Clientes
+GVA14;COD_RUBRO;Codigo Rubro;Clientes
+GVA14;ID_CATEGORIA_IVA;Identificador Categoria IVA;Clientes
+GVA18;NOMBRE_PRO;Nombre Provincia;Provincias
+GVA18;COD_PAIS;Codigo Pais;Provincias
+GVA23;COD_VENDED;Codigo Vendedor;Vendedores
+GVA23;NOMBRE_VEN;Nombre Vendedor;Vendedores
+GVA23;PORC_COMIS;Porcentaje comision;Vendedores
+GVA23;TIPO_DOC;Tipo Documento;Vendedores
+GVA23;NRO_DOC;Numero de Documento;Vendedores
+GVA23;DOM_VENDED;Domicilio Vendedor;Vendedores
+GVA23;COD_POSTAL;Codigo Postal;Vendedores
+GVA23;LOCALIDAD;Localidad;Vendedores
+GVA23;COD_PROVIN;Codigo Provincia ;Vendedores
+GVA23;TELEFONO;Telefono;Vendedores
+GVA23;E_MAIL;Direccion de mail;Vendedores
+SBA04;ID_SBA04;Idenfificacion tabla comprobantes de tesoreria;Comprobantes Tesoreria
+SBA04;COD_COMP;Codigo Comprobante;Comprobantes Tesoreria
+SBA04;CONCEPTO;Concepto;Comprobantes Tesoreria
+SBA04;COTIZACION;Cotizacion;Comprobantes Tesoreria
+SBA04;FECHA;Fecha Comprobante;Comprobantes Tesoreria
+SBA04;FECHA_ING;Fecha de Ingreso;Comprobantes Tesoreria
+SBA04;N_COMP;Numero Comprobante;Comprobantes Tesoreria
+SBA04;TERMINAL;Terminal;Comprobantes Tesoreria
+SBA04;USUARIO;Nombre de Usuario;Comprobantes Tesoreria
+SBA04;C_COMP_ORI;Tipo Comprobante de Origen;Comprobantes Tesoreria
+SBA04;N_COMP_ORI;Numero Comprobante Origen;Comprobantes Tesoreria
+SBA04;FECHA_EMIS;Fecha Emision;Comprobantes Tesoreria
+SBA04;TOTAL_IMPORTE_CTE;Total importe;Comprobantes Tesoreria
+SBA05;ID_SBA05;Codigo identificador tabla renglones comprobante;Renglones Comprobantes Tesoreria
+SBA05;CANT_MONE;Cantidad de Moneda;Renglones Comprobantes Tesoreria
+SBA05;COD_COMP;Codigo Comprobante;Renglones Comprobantes Tesoreria
+SBA05;D_H;Debe_Haber;Renglones Comprobantes Tesoreria
+SBA05;FECHA;Fecha;Renglones Comprobantes Tesoreria
+SBA05;FECHA_CONC;Fecha concliacion;Renglones Comprobantes Tesoreria
+SBA05;LEYENDA;Leyenda;Renglones Comprobantes Tesoreria
+SBA05;MONTO;Monto;Renglones Comprobantes Tesoreria
+SBA05;N_COMP;Numero Comprobante;Renglones Comprobantes Tesoreria
+SBA05;UNIDADES;Unidades;Renglones Comprobantes Tesoreria
+SBA14;CTA_CARTER;Cuenta Cartera;Cheques de Terceros
+SBA14;CTA_DESTIN;Cuenta Destino;Cheques de Terceros
+SBA14;F_EMISION;Fecha Emision;Cheques de Terceros
+SBA14;FECHA_CHEQ;Fecha del Cheque;Cheques de Terceros
+SBA14;N_CHEQUE;Numero de Cheque;Cheques de Terceros
+SBA14;IMPORTE_CH;Importe del Cheque;Cheques de Terceros
+SBA14;N_COMP_REC;Numero de Recibo;Cheques de Terceros
+SBA14;TIPO_CHEQU;Tipo de Cheque;Cheques de Terceros
+SBA14;ID_BANCO;Codigo de Banco;Cheques de Terceros
+SBA14;RAZON_EMIS;Emisor;Cheques de Terceros
+SBA14;ESTADO;Estado del Cheque;Cheques de Terceros
+STA11;COD_ARTICU;Codigo Articulo;Articulos
+STA11;COD_IVA;Codigo IVA;Articulos
+STA11;COD_IVA_CO;Codigo IVA Compras;Articulos
+STA11;CTA_COMPRA;Cuenta Compras;Articulos
+STA11;CTA_VENTAS;Cuenta Ventas;Articulos
+STA11;DESC_ADIC;Descripcion Adicional;Articulos
+STA11;DESCRIPCIO;Descripcion ;Articulos
+STA11;DESCUENTO;Porcentaje Descuento;Articulos
+STA11;PERFIL;Perfil Articulo;Articulos
+STA11;STOCK_MAXI;Stock Maximo;Articulos
+STA11;STOCK_MINI;Stock Minimo;Articulos
+STA11;USA_PARTID;Usa Partidas;Articulos
+STA11;ID_MEDIDA_STOCK;Identificacion Codigo Unidad Medida Stock;Articulos
+STA11;ID_MEDIDA_VENTAS;Identificacion Codigo Unidad Medida Ventas;Articulos
+STA11;USUARIO;Nombre Usuario;Articulos
+STA11;TERMINAL;Terminal;Articulos
+MODELO_PEDIDO;ID_MODELO_PEDIDO;Identificador Modelo Pedido;Modelos de Pedidos
+MODELO_PEDIDO;COD_MODELO_PEDIDO;Codigo Modelo Pedido;Modelos de Pedidos
+MODELO_PEDIDO;DESCRIPCION;Descripcion Modelo Pedido;Modelos de Pedidos
+MODELO_PEDIDO;HABILITADO;Habilitado;Modelos de Pedidos
+MODELO_PEDIDO;ID_GVA23;Identificador Vendedor;Modelos de Pedidos
+MODELO_PEDIDO_CLIENTE;ID_MODELO_PEDIDO_CLIENTE;Identificador Modelo Pedido Cliente;Modelos Pedidos Clientes
+MODELO_PEDIDO_CLIENTE;ID_MODELO_PEDIDO;Identificador Modelo Pedido;Modelos Pedidos Clientes
+MODELO_PEDIDO_CLIENTE;ID_GVA14;Identificador Cliente;Modelos Pedidos Clientes
+MODELO_PEDIDO_CLIENTE;ID_DIRECCION_ENTREGA;Identificador Direccion Entrega;Modelos Pedidos Clientes
+MODELO_PEDIDO_RENGLON;ID_MODELO_PEDIDO_RENGLON;Identificador Modelo Pedido Renglon;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;ID_MODELO_PEDIDO;Identificador Modelo Pedido;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;NRO_RENGLON;Numero de Renglon;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;ID_STA11;Identificador Articulo;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;CANT_PEDIDA;Cantidad Pedida;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;CANT_A_DESCARGAR;Cantidad a Descargar;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;CANT_A_FACTURAR;Cantidad a Facturar;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;PORC_BONIFICACION;Porcentaje Bonificacion;Modelo Pedido Renglon
+MODELO_PEDIDO_RENGLON;PRECIO;Precio;Modelo Pedido Renglon
+GVA03;CANT_A_DES;Cantidad a Descargar;Renglones Pedidos
+GVA03;CANT_A_FAC;Cantidad a Facturar;Renglones Pedidos
+GVA03;CANT_PEDID;Cantidad Pedida;Renglones Pedidos
+GVA03;CANT_PEN_D;Cantidad Pendiente Descargar;Renglones Pedidos
+GVA03;CANT_PEN_F;Cantidad Pendiente de Facturar;Renglones Pedidos
+GVA03;COD_ARTICU;Codigo de Articulo;Renglones Pedidos
+GVA03;DESCUENTO;Descuento;Renglones Pedidos
+GVA03;N_RENGLON;Numero de Renglon;Renglones Pedidos
+GVA03;NRO_PEDIDO;Numero de Pedido;Renglones Pedidos
+GVA03;PEN_REM_FC;Pendiente Remitir Facturar;Renglones Pedidos
+GVA03;PRECIO;Precio;Renglones Pedidos
+GVA03;TALON_PED;Talonario Pedidos;Renglones Pedidos
+GVA03;ID_MEDIDA_VENTAS;Identificador Unidad Medida Ventas;Renglones Pedidos
+GVA03;ID_MEDIDA_STOCK;Identificador Unidad Medida Stock;Renglones Pedidos
+GVA03;PRECIO_LISTA;Precio Lista;Renglones Pedidos
+GVA03;PRECIO_BONIF;Precio Bonificado;Renglones Pedidos
+GVA03;FECHA_MODIFICACION_PRECIO;Fecha Modificacion Precio;Renglones Pedidos
+GVA03;USUARIO_MODIFICACION_PRECIO;Usuario Modificacion Precio;Renglones Pedidos
+GVA03;TERMINAL_MODIFICACION_PRECIO;Terminal Modificacion Precio;Renglones Pedidos
+GVA03;COD_DEPOSI;Codigo Deposito;Renglones Pedidos
+GVA03;ID_STA11;Identificador Articulo;Renglones Pedidos
+GVA03;ID_GVA23;Identificador Vendedor;Renglones Pedidos
+GVA03;NRO_ORDEN;Numero de Orden;Renglones Pedidos
+GVA03;IMPORTE_SIN_IMPUESTOS;Importe Sin Impuestos;Renglones Pedidos
+GVA03;IMPORTE_CON_IMPUESTOS;Importe Con Impuestos;Renglones Pedidos
+GVA03;PRECIO_NETO;Precio Neto;Renglones Pedidos
+GVA21;COD_CLIENT;Codigo Cliente;Pedidos
+GVA21;COD_TRANSP;Codigo Transporte;Pedidos
+GVA21;COD_VENDED;Codigo Vendedor;Pedidos
+GVA21;COMENTARIO;Comentario;Pedidos
+GVA21;COND_VTA;Condicion de Venta;Pedidos
+GVA21;COTIZ;Cotizacion;Pedidos
+GVA21;ESTADO;Estado;Pedidos
+GVA21;FECHA_APRU;Fecha Aprobacion;Pedidos
+GVA21;FECHA_PEDI;Fecha Pedido;Pedidos
+GVA21;LEYENDA_1;LEYENDA_1;Pedidos
+GVA21;LEYENDA_2;LEYENDA_2;Pedidos
+GVA21;LEYENDA_3;LEYENDA_3;Pedidos
+GVA21;LEYENDA_4;LEYENDA_4;Pedidos
+GVA21;LEYENDA_5;LEYENDA_5;Pedidos
+GVA21;MON_CTE;Moneda Corriente;Pedidos
+GVA21;N_LISTA;Numero de Lista;Pedidos
+GVA21;N_REMITO;Numero de Remito;Pedidos
+GVA21;NRO_PEDIDO;Numero de Pedido;Pedidos
+GVA21;ORIGEN;Origen;Pedidos
+GVA21;PORC_DESC;Porcentaje Descuento;Pedidos
+GVA21;TALONARIO;Talonario ;Pedidos
+GVA21;TALON_PED;Talonario Pedidos;Pedidos
+GVA21;TOTAL_PEDI;Total Pedido;Pedidos
+GVA21;HORA_INGRESO;;Pedidos
+GVA21;USUARIO_INGRESO;Usuario Ingreso;Pedidos
+GVA21;TERMINAL_INGRESO;Terminal Ingreso;Pedidos
+GVA21;FECHA_ULTIMA_MODIFICACION;Fecha Ultima Modificacion;Pedidos
+GVA21;HORA_ULTIMA_MODIFICACION;Hora Ultima Modificacion;Pedidos
+GVA21;ID_DIRECCION_ENTREGA;Identificador Direccion Entrega;Pedidos
+GVA21;NRO_OC_COMP;Numero Orden de Compra;Pedidos
+GVA21;ID_GVA14;Identificador Cliente;Pedidos
+GVA21;ID_GVA23;Identificador Vendedor;Pedidos
+GVA21;ID_MODELO_PEDIDO;Identificador Modelo de Pedidos;Pedidos
+GVA21;ID_MONEDA;Identificador Moneda;Pedidos
+GVA21;TOTAL_EXENTO;Total Exento;Pedidos
+GVA21;IMPORTE_DESCUENTO_GENERAL_SIN_IMPUESTOS;Importe Descuento General;Pedidos
